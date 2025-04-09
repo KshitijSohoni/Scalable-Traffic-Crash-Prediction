@@ -62,9 +62,6 @@ Based on the insights, we suggest:
 - Integration with weather, traffic volume, or construction data
 - Real-time crash severity prediction system
 
-![Map](images/Map.png)
-<img src="images/Map.png" alt="Map" width="500"/>
-
-![KMeans](images/KMeans.png)
-![Top10 Important Features](images/Top10%20Important%20Features%20for%20Crash%20Severity%20Prediction.png)
-
+<img src="images/Map.png" alt="Map" width="700"/>
+<img src="images/KMeans.png" alt="KMeans" width="700"/>
+<img src="images/t10.png" alt="Top 10" width="700"/>
