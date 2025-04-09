@@ -13,8 +13,6 @@ Traffic safety is a growing urban concern. Our goal is to analyze crash trends i
 - Matplotlib & Seaborn (for visualization)
 - Jupyter Notebook
 
-**Team Members:** Mudit Gupta, Kshitij Sohni, Shaniaa Sen, Yajurva Toshniwal
-
 ## Data Source
 
 - **Dataset**: [Traffic Crashes - Crashes | City of Chicago Data Portal](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if)
@@ -64,10 +62,7 @@ Based on the insights, we suggest:
 - Integration with weather, traffic volume, or construction data
 - Real-time crash severity prediction system
 
----
+![Map](images/Map.png)
+![KMeans](images/KMeans.png)
+![Top10 Important Features](images/Top10%20Important%20Features%20for%20Crash%20Severity%20Prediction.png)
 
-Feel free to reach out or open issues for feedback, collaboration, or enhancements!
-
----
-
-Let me know if you'd like a badge section, environment setup guide, or contribution instructions added as well!
